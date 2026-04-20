@@ -1,0 +1,68 @@
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 0.09  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 79.85  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 0.09  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 0.09  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 0.09  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 79.85  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 1.730  |  Top-1 Acc: 69.23  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 79.85  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 79.85  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 2.176  |  Top-1 Acc: 74.52  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 2.296  |  Top-1 Acc: 78.13  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 2.346  |  Top-1 Acc: 75.49  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 2.346  |  Top-1 Acc: 75.49  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 79.85  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 2.296  |  Top-1 Acc: 78.14  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 79.85  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.243  |  Top-1 Acc: 79.85  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.067  |  Top-1 Acc: 79.78  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 4.067  |  Top-1 Acc: 79.78  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 3.854  |  Top-1 Acc: 79.55  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 3.642  |  Top-1 Acc: 79.42  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 3.429  |  Top-1 Acc: 79.06  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 3.217  |  Top-1 Acc: 78.70  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 3.026  |  Top-1 Acc: 78.28  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 2.813  |  Top-1 Acc: 77.69  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 2.601  |  Top-1 Acc: 76.84  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 2.388  |  Top-1 Acc: 75.78  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 2.176  |  Top-1 Acc: 74.52  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 1.985  |  Top-1 Acc: 72.59  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 1.772  |  Top-1 Acc: 69.86  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 1.560  |  Top-1 Acc: 65.95  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 1.348  |  Top-1 Acc: 60.07  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 1.135  |  Top-1 Acc: 52.06  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
+|  Num Prop:  0  |  GMACs: 0.944  |  Top-1 Acc: 42.44  |  Selection:          None  |  Propagation:       None  |  Sparsity: 1.00  |  Alpha: 0.10  |  Scale: False  |  Graph:     None  |
+
